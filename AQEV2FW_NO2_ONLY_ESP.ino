@@ -751,7 +751,7 @@ void setup() {
                     Serial.print(F("..."));
                 }
 
-                XXXXXX MODEL-SPECIFIC-PARTICULATE-STARTUP-COUNTDOWN-LOGIC XXXXXX
+
 
                 updateCornerDot();
 
